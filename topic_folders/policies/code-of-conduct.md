@@ -1,75 +1,76 @@
-### The Carpentries Code of Conduct
+### カーペントリーズの行動規範
 
-#### Code of Conduct (Summary View)
+#### 行動規範 (概要版)
 
-Below is a summary of The Carpentries Code of Conduct. Continue reading for a [more detailed description of the CoC](#code-of-conduct-detailed-view).
+以下はカーペントリーズの行動規範の要約です。[行動規範の詳細](#code-of-conduct-detailed-view)は、下記をお読みください。
 
-For more information please review our:
+詳細については、以下を確認してください: (訳注: 下記リンクはまだ日本語翻訳できていません。)
+
 - [Incident Response Guidelines](incident-response.md)
 - [Incident Reporting Guidelines](incident-reporting.md)
 - [Incident Response Procedure](enforcement-guidelines.md)
 - [Termed Suspension Guidelines](termed-suspension.md)
 
-We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries' Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
+私たちは、生い立ちや身元に関係なく、すべての人々に歓迎的で支援的な環境を提供することに専念しています。 このコミュニティに参加することで、参加者はカーペントリーズの行動規範を遵守し、行動規範のインシデントを解決するための手順を受け入れることに同意することになります。排除、脅迫、または不快感を引き起こす行動は、いかなる形態のものも行動規範の違反となります。 ポジティブでプロフェッショナルな学習環境を育むために、すべてのプラットフォームとイベントで次のような行動をとることをお勧めします:
 
-* Use welcoming and inclusive language
-* Be respectful of different viewpoints and experiences
-* Gracefully accept constructive criticism
-* Focus on what is best for the community
-* Show courtesy and respect towards other community members
+* 歓迎的で一部の人に限定しない言葉を使う
+* さまざまな視点や経験を尊重する
+* 建設的な批判を円満に受け入れる
+* コミュニティに最適なものを重視する
+* 他のコミュニティメンバーに対して礼儀と敬意を示す
 
-If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee [completing this form][reporting-form], who will take the appropriate action to address the situation.
+誰かが行動規範に違反していると思われる場合は、[このフォームを記入][reporting-form]しカーペントリーズの行動規範委員会に報告してください。委員会は状況に対処するための適切な措置を講じます。
 
-#### Code of Conduct (Detailed View)
+#### 行動規範 (詳細版) 
 
-Part 1. Introduction 
+パート 1. イントロダクション
 
-The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
+カーペントリーズはコミュニティ主導のプロジェクトです。私たちは、コミュニティのすべての人の関わりを大切にしています。私たちは、学び、教え、貢献するための友好的で敬意のある場所を作ることに尽力しています。私たちのイベントやコミュニケーションへのすべての参加者は、他の人に敬意と礼儀を示すことが求められます。
 
-To make clear what is expected, everyone participating in The Carpentries activities is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct.  
+何が求められているかを明確にするために、カーペントリーズの活動に参加するすべての人は、行動規範に準拠する必要があります。この行動規範は、ワークショップ、メーリングリスト、GitHub、Slack、Twitterなどのオンラインフォーラムを含む(しかしこれらに限定されない)カーペントリーズが管理するすべてのスペースに適用されます。ワークショップの主催者は、行動規範の施行を支援することが求められます。
 
-The Carpentries [Code of Conduct Committee](https://carpentries.org/coc-ctte/) is responsible for enforcing the Code of Conduct. It can be contacted by emailing [coc@carpentries.org](mailto:coc@carpentries.org). 
-All reports will be reviewed by the Code of Conduct Committee and will be kept confidential. 
+カーペントリーズの[行動規範委員会](https://carpentries.org/coc-ctte/)は、行動規範を施行する責任があります。委員会には [coc@carpentries.org](mailto:coc@carpentries.org) に電子メールを送ることで連絡できます。
+すべての報告は行動規範委員会によってレビューされ、機密が保持されます。 
  
-Part 2. The Carpentries Code of Conduct
+パート 2. カーペントリーズの行動規範
 
-The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our teachers or learners or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level. 
+カーペントリーズは、生い立ちや身元に関係なく、すべての人々に歓迎的で支援的な環境を提供することに専念しています。そのため、教師や学習者を軽視したり、他人を排除したり、脅迫したり、不快感を与えたりするような行動は容認しません。私たちは、性同一性と表現、性的指向、身体の障害、外見、体の大きさ、市民権、国籍、民族的または社会的出身、妊娠、家族的なステータス、熟練度のステータス、遺伝情報、宗教もしくは信仰(またはその欠如)、国家の少数派民族の一員、財産、年齢、教育、社会-経済的なステータス、技術的選択、そして経験レベルを含む(しかしこれらに限定されない)特性に基づく差別または嫌がらせを容認しません。
 
-Everyone who participates in Carpentries activities is required to conform to this Code of Conduct. It applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct. By participating, participants indicate their acceptance of the procedures by which The Carpentries resolves any Code of Conduct incidents, which may include storage and processing of their personal information. 
+カーペントリーズの活動に参加するすべての人は、この行動規範に準拠する必要があります。この行動規範は、ワークショップ、メーリングリスト、GitHub、Slack、Twitterなどのオンラインフォーラムを含む(しかしこれらに限定されない)カーペントリーズが管理するすべてのスペースに適用されます。ワークショップの主催者は、行動規範の施行を支援することが求められます。 参加者は、参加することにより、カーペントリーズが行動規範のインシデントを解決する手順に同意したことを示します。これには、個人情報の保存と処理が含まれる場合があります。
 
-Part 2.1 Expected behaviour
+パート 2.1 求められる行動
 
-All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
+私たちのイベントやコミュニケーションのすべての参加者は、他の人に敬意と礼儀を示すことが求められます。 すべてのやり取りは、プラットフォームに関係なく、オンラインまたは対面でプロフェッショナルである必要があります。 ポジティブでプロフェッショナルな学習環境を育むために、カーペントリーズのすべてのイベントとプラットフォームで次のような行動をとることをお勧めします:
 
-* Use welcoming and inclusive language
-* Be respectful of different viewpoints and experiences
-* Gracefully accept constructive criticism
-* Focus on what is best for the community
-* Show courtesy and respect towards other community members
+* 歓迎的で一部の人に限定しない言葉を使う
+* さまざまな視点や経験を尊重する
+* 建設的な批判を円満に受け入れる
+* コミュニティに最適なものを重視する
+* 他のコミュニティメンバーに対して礼儀と敬意を示す
 
-Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
+注: 詳細な推奨事項については、 [4つのソーシャルルール](https://www.recurse.com/manual#sub-sec-social-rules) を参照してください。(訳注: 4つのソーシャルルールはまだ翻訳していません)
 
-Part 2.2 Unacceptable behaviour
+パート 2.2 容認できない行動
 
-Examples of unacceptable behaviour by participants at any Carpentries event/platform include:
+カーペントリーズのイベント/プラットフォームの参加者による容認できない行動の例としては下記があります:
 
-- written or verbal comments which have the effect of excluding people on the basis of membership of any specific group  
-- causing someone to fear for their safety, such as through stalking, following, or intimidation  
-- violent threats or language directed against another person
-- the display of sexual or violent images  
-- unwelcome sexual attention  
-- nonconsensual or unwelcome physical contact  
-- sustained disruption of talks, events or communications
-- insults or put downs  
-- sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
-- excessive swearing
-- incitement to violence, suicide, or self-harm  
-- continuing to initiate interaction (including photography or recording) with someone after being asked to stop  
-- publication of private communication without consent  
+- 特定のグループのメンバーシップに基づいて人々を除外する効果のある書面または口頭のコメント
+- ストーカー行為、フォロー、脅迫などを通じて、誰かの安全を恐れさせる
+- 他人に対する暴力的な脅迫や言葉遣い
+- 性的または暴力的な画像の表示 
+- 歓迎されない性的注意
+- 合意に基づかない、または歓迎されない物理的接触  
+- 話し合い、イベント、コミュニケーションの継続した妨害
+- 侮辱したり悪口を言う  
+- 性差別主義者、人種差別主義者、同性愛嫌悪、トランスジェンダー嫌悪、障害者差別、または排他的なジョーク
+- 過度の罵倒
+- 暴力、自殺、または自傷行為への扇動
+- 停止を求められた後も、誰かとのやり取り (写真撮影や録音を含む) を起こし続ける  
+- 同意なしのプライベートコミュニケーションの公開
 
-Part 2.3 Consequences of Unacceptable behaviour
+パート 2.3 容認できない行動の結果
 
-Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
+不適切な行動をやめるよう要求された参加者は、直ちに従うことが求められます。 これは、オンラインまたは対面でのすべてのカーペントリーズのイベントおよびプラットフォームに適用されます。 参加者がこの行動規範に違反する行動をとった場合、主催者は違反者に警告するか、イベントまたはプラットフォームを離れるように依頼するか (返金は行われません)、またカーペントリーズの行動規範委員会に行動規範違反を調査し、適切な制裁を課すように手配する可能性があります。
 
 #### Update Logs
 
